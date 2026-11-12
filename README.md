@@ -1,5 +1,7 @@
 # Xiaomi HyperOS Pre-installed Telemetry & Carrier Bloatware Audit
 
+[English](README.md) | [简体中文](README_zh.md)
+
 A technical privacy investigation, static analysis, and network session analysis of background telemetry daemons and carrier management services pre-installed on Xiaomi devices (**Xiaomi 15 / `24129PN74C`**) running **Xiaomi HyperOS**.
 
 ---
